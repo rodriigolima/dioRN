@@ -1,3 +1,3 @@
-### Projeto de React Native introdutoria
+# Projeto de React Native introdutoria
 
-# app abrindo o portifolio do github
+### app abrindo o portifolio do github
